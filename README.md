@@ -1,6 +1,6 @@
 # cas-authenticate-asset-github-action
 
-GitHub action that uses the **[cas](https://github.com/codenotary/cas)** tool to authenticate digital assets.
+GitHub action that uses the **[cas](https://cas.codenotary.com)** tool to authenticate digital assets.
 
 ## How to use it
 
